@@ -79,10 +79,10 @@ class MyApp extends StatelessWidget {
           textScaleFactor: 1,
           softWrap: true,
           text:  TextSpan(
-            text: 'hello world',style: DefaultTextStyle.of(context).style,
+            text: 'hello mashkoor',style: DefaultTextStyle.of(context).style,
             children: const [
               TextSpan(
-                text: 'hello world',style: TextStyle(fontSize: 24,fontWeight: FontWeight.bold)
+                text: 'hello mashkoor',style: TextStyle(fontSize: 24,fontWeight: FontWeight.bold)
               ),
             ],
           ),
